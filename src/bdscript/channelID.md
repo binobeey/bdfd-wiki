@@ -8,12 +8,12 @@ $channelID
 ## Example
 ```
 $nomention
-Channel ID: $channelID
+Channel ID: 1206240745531646043
 ```
 
 ```discord yaml
-- user_id: 803569638084313098
-  username: RainbowKey
+- user_id: 1191376659111235669
+  username: binoo.php
   avatar: https://github.com/NilPointer-Software/bdfd-wiki/assets/113303649/a9034fd5-40c2-4320-a408-2f2ee0071d9d
   color: "#E67E22"
   content: |
@@ -24,13 +24,13 @@ Channel ID: $channelID
   bot: true
   verified: true
   content: |
-      Channel ID: 566370477967147018
+      Channel ID: 1206240745531646043
 ```
 
 > It will return `none` if you use it in a DM.
 ```discord yaml
-- user_id: 803569638084313098
-  username: RainbowKey
+- user_id: 1191376659111235669
+  username: binoo.php
   avatar: https://github.com/NilPointer-Software/bdfd-wiki/assets/113303649/a9034fd5-40c2-4320-a408-2f2ee0071d9d
   content: |
     !example
